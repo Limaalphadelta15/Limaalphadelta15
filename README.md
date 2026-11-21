@@ -38,8 +38,13 @@ I am moving into IT after five years in busy customer-facing hospitality roles. 
 
 ## Placement highlights (Tecknuovo, Nov 2026)
 
-- Audited a company MacBook before a new starter arrived: specification, battery health, FileVault, firewall, updates and installed software. Wrote a device health checklist and a fit-for-use recommendation.
-- Completed a Cyber Essentials readiness review for a fictional hotel, with the gaps, fixes and estimated costs written up as a technical brief.
+IT Work Experience Placement at Tecknuovo, a London technology consultancy that builds and runs digital services for clients.
+
+- Rotated through the IT Support, Cyber Security and Full Stack Engineering teams.
+- Audited a company MacBook before a new starter arrived: specification, battery health, FileVault encryption, firewall, software updates and installed apps.
+- Wrote a device health checklist and a fit-for-use recommendation for the team.
+- Completed a Cyber Essentials readiness review for a fictional hotel, covering the five controls, the gaps found, the fixes needed and estimated costs.
+- Presented the findings as a short technical brief written in plain language.
 
 ## Next on my learning list
 
